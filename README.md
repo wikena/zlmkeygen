@@ -3,7 +3,7 @@ zlmkeygen
 
 `zlmkeygen` is a minimal key pair generation tool for ZLM2. Install with:
 
-    go get -v github.com/wikena/zlmkeygen
+    go get -u -v github.com/wikena/zlmkeygen
 
 Afterwards run:
 
