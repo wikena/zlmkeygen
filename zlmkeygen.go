@@ -2,12 +2,11 @@
 package main
 
 import (
+	"crypto/ed25519"
 	"crypto/rand"
 	"encoding/json"
 	"fmt"
 	"os"
-
-	"github.com/agl/ed25519"
 )
 
 // Pair defines a Ed25519 key pair.
